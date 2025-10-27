@@ -122,7 +122,10 @@ letter-spacing: 0.04em;
 color: #fff;
 }
 
-
+.hero-order-btn:hover, 
+.hero-order-btn:focus{
+color:#404bbf 
+}
 
 .features {
 }
