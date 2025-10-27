@@ -1,5 +1,9 @@
 body {
     font-family: Roboto, sans-serif;
+    color: #434455;
+
+    background-color: #FFFFFF;
+
 }
 
 ul {
@@ -9,6 +13,14 @@ ul {
 a {
     text-decoration: none;
 }
+
+button {
+  cursor: pointer;
+}
+
+
+
+
 
 .visually-hidden {
   position: absolute;
@@ -23,7 +35,6 @@ a {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-
 .header {
 }
 .header-navigation {
@@ -38,7 +49,7 @@ font-size: 18px;
 line-height: 117%;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4d5ae5
+color: #4d5ae5;
 }
 
 .header-logo span{
@@ -55,27 +66,27 @@ color: #2e2f42;
 
 .header-menu-link {
 }
-.header-address {
-font-style: normal
-}
 
+.header-address{ 
+ font-style: normal;
+
+}
 .header-contacts-list {
 }
 
-.header-contacts-item {
-font-family: "Roboto", sans-serif;
+.header-contacts-link {
 font-weight: 400;
 font-size: 16px;
-
 /* line-height: 24px; */ 
 line-height: 150%;
 letter-spacing: 0.02em;
 color: #434455;
-    
-
 }
 
-
+.header-menu-link:hover, 
+.header-menu-link:focus{
+color:#404bbf 
+}
 
 .hero {
 
