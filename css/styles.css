@@ -71,7 +71,12 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 
 }
-
+.header-menu-link:hover { 
+ color: #404bbf;
+}
+.header-menu-list:focus {
+ color: #404bbf;
+}
 .header-address{ 
  font-style: normal;
 
@@ -125,12 +130,13 @@ font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.04em;
 color: #fff;
+background-color: #4D5AE5; 
 }
 
-.hero-order-btn:hover{
-    color:#404bbf; 
+.hero-order-btn:hover {
+color:#404bbf; 
 } 
-.hero-order-btn:focus{
+.hero-order-btn:focus {
 color:#404bbf; 
 }
 .features {
