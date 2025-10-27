@@ -96,7 +96,7 @@ color: #434455;
 
 .header-menu-link:hover, 
 .header-menu-link:focus{
-color:#404bbf 
+color:#404bbf; 
 }
 
 
@@ -124,7 +124,7 @@ color: #fff;
 
 .hero-order-btn:hover, 
 .hero-order-btn:focus{
-color:#404bbf 
+color:#404bbf; 
 }
 .features {
 }
