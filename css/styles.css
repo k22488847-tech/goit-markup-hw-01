@@ -74,7 +74,7 @@ color: #2e2f42;
 .header-menu-link:hover { 
  color: #404bbf;
 }
-.header-menu-list:focus {
+.header-menu-link:focus {
  color: #404bbf;
 }
 .header-address{ 
@@ -104,9 +104,9 @@ color: #434455;
 
 color: #404bbf;
 } 
-.header-contacts-link:focus{
+.header-contacts-link:focus {
 
-color:#404bbf; 
+color: #404bbf; 
 }
 
 
@@ -134,10 +134,10 @@ background-color: #4D5AE5;
 }
 
 .hero-order-btn:hover {
-color:#404bbf; 
+ color:#404bbf; 
 } 
 .hero-order-btn:focus {
-color:#404bbf; 
+ color:#404bbf; 
 }
 .features {
 }
