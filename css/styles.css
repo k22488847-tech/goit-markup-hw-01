@@ -21,8 +21,7 @@ button {
 .visually-hidden {
   margin: -1px;
   border: 0;
-  padding: 0;
-  
+
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
@@ -120,7 +119,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
 }
-.hero-order-btn {
+.hero-service-btn {
 font-weight: 500;
 font-size: 16px;
 /* line-height: 24px; */ 
@@ -130,10 +129,10 @@ color: #fff;
 background-color: #4D5AE5; 
 }
 
-.hero-order-btn:hover {
+.hero-service-btn:hover {
 background-color:#404bbf; 
 } 
-.hero-order-btn:focus {
+.hero-service-btn:focus {
 background-color:#404bbf; 
 }
 .features {
